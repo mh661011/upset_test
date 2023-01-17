@@ -1,0 +1,14 @@
+{
+	"file": "https://github.com/mh661011/upset_test.git",
+	"name": "Language_required",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+	],
+	"sets": [
+		{ "format": "float", "start": 1, "end": 4 }
+	],
+
+}
