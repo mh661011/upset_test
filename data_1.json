@@ -1,15 +1,13 @@
 {
-	"file": "https://raw.githubusercontent.com/mh661011/upset_test/main/data_1.csv",
-	"name": "Language_required",
+	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"name": "Test",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "language" },
-		{ "type": "float", "index": 1, "name": "Data Analyst", "min": 0, "max": 1 },
-		{ "type": "float", "index": 2, "name": "Data Engineer", "min": 0, "max": 1 }
+		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "float", "start": 3, "end": 4 }
+		{ "format": "binary", "start": 1, "end": 3 }
 	]
 }
