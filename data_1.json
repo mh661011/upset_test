@@ -5,7 +5,7 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Name" }
+		{ "type": "id", "index": 0, "name": "language" }
 	],
 	"sets": [
 		{ "format": "float", "start": 1, "end": 4 , "min": 0, "max": 1 }
