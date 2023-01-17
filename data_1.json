@@ -5,7 +5,9 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "language" }
+		{ "type": "id", "index": 0, "name": "language" },
+		{ "type": "float", "index": 1, "name": "Data Analyst", "min": 0, "max": 1 },
+		{ "type": "float", "index": 2, "name": "Data Engineer", "min": 0, "max": 1 }
 	],
 	"sets": [
 		{ "format": "float", "start": 1, "end": 4 , "min": 0, "max": 1 }
