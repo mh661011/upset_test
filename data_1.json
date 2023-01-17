@@ -10,6 +10,6 @@
 		{ "type": "float", "index": 2, "name": "Data Engineer", "min": 0, "max": 1 }
 	],
 	"sets": [
-		{ "format": "float", "start": 3, "end": 4 , "min": 0, "max": 1 }
+		{ "format": "binary", "start": 3, "end": 4 }
 	]
 }
