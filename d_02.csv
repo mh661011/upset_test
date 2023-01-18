@@ -1,0 +1,12 @@
+language;Data Analyst_value;Data Engineer_value;Data Scientist_value;Research Scientist_value;Data Analyst;Data Engineer;Data Scientist;Research Scientist
+Julia;0;0;0;0.13;0;0;0;0
+MATLAB;0;0;0.26;0.03;0;0;0;0
+SAS;0;0.06;0.26;0;0;0;0;0
+R;0.66;0.06;0.8;0.26;1;0;1;0
+SQL;0.93;0.93;0.93;0.03;1;1;1;0
+Python;0.8;1;0.9;0.83;1;1;1;1
+Java;0;0.2;0.13;0.3;0;0;0;0
+C++;0.06;0.05;0.13;0.53;0;0;0;1
+C;0;0;0;0.25;0;0;0;0
+C#;0;0;0;0.2;0;0;0;0
+PHP;0.26;0.13;0.06;0.11;0;0;0;0
